@@ -1,0 +1,7 @@
+.env
+*.log
+mysql/data/*
+.DS_Store
+*.swp
+.*~
+vendor/
